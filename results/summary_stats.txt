@@ -1,3 +1,13 @@
-Project: v9 Genomic Analysis
+=== Ingestion QC Report ===
+Source: data/v9_sample.csv
 Sample Count: 3
-Status: Verified Clean
+
+       gene_expression  quality_score
+count         3.000000       3.000000
+mean         30.366667       0.936667
+std          16.372029       0.051316
+min          12.800000       0.880000
+25%          22.950000       0.915000
+50%          33.100000       0.950000
+75%          39.150000       0.965000
+max          45.200000       0.980000
