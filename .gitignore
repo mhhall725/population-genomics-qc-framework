@@ -1,0 +1,8 @@
+# --- BIOINFORMATICS SAFETY NET ---
+data/
+*.csv
+*.vcf
+*.bam
+*.gz
+__pycache__/
+.ipynb_checkpoints/
